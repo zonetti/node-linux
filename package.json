@@ -17,9 +17,6 @@
     "mocha": "*"
   },
   "main": "lib/node-linux.js",
-  "os": [
-    "linux"
-  ],
   "dependencies": {
     "optimist": "~0.4.0",
     "mu2": "~0.5.17"
@@ -30,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/coreybutler/node-linux.git"
+    "url": "git://github.com/zonetti/node-linux.git"
   },
   "license": "MIT",
   "engine":"node >= 0.10.10"
